@@ -1,0 +1,2 @@
+solve all sudokus 
+in fastest way

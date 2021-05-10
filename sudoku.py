@@ -1,6 +1,6 @@
 import sys
 import numpy as np 
-
+#import 
 
 board = [
     [7,8,0,4,0,0,1,2,0],
